@@ -153,3 +153,78 @@ document.write("Your age ",Age)
 
 
 
+
+
+
+//ch-no. 06
+
+document.write("<center><h1>ch 6 to 9 "pdf"</h1></center>");
+
+//Q 01
+document.write("<br><h1>Q1</h1>");
+
+var alii = +1;
+document.write("x=x+1");
+
+//Q 02
+document.write("<br><h1>Q3</h1>");
+var alii = 100;
+--alii;
+document.write(alii);
+
+//Q 03
+document.write("<br><h1>Q3</h1>");
+
+var alii2 = 100;
+var alii3 = alii2++;
+document.write(alii3);
+
+
+//Q 04
+
+document.write("<br><h1>Q4</h1>")
+var alii5 = 100;
+var alii6 = --alii5;
+document.write(alii6);
+document.write(alii6);
+
+
+
+
+//Q 05
+document.write("<br><h1>Q5</h1>");
+var alii7 = 2;
+var alii8 = alii7--; 
+document.write( alii8);
+
+
+
+//Q 06
+var alii9 = 10;
+var alii10 = alii9++, ali_10 = alii9 - 1;
+document.write("<br><h1>Q6</h1>","Answer in app.js");
+
+
+
+//Q 07
+var alii11 = 10;  
+alii11++;          
+alert(alii11); 
+document.write("<br><h1>Q7</h1>","Answer in app.js");
+
+
+
+
+
+//Q 09
+document.write("<h1>Q9</h1>a is");
+
+var alii12 = 2, alii13 = 1;
+document.write(" ",alii12);
+
+var alii14 = --alii12 - --alii13 + ++alii13 + alii13--;
+document.write("<br><br>b is"," ",alii13);
+document.write("<br><br>Result is"," ",alii14);
+
+
+
